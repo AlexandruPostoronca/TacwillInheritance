@@ -1,7 +1,6 @@
-package Parinti;
+package House;
 
 import Copii.Alexandra;
-import House.MayHouse;
 
 public class HouseAlexandra extends MayHouse {
     public HouseAlexandra(Alexandra alexandra) {
