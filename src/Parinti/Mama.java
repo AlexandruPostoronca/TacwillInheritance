@@ -8,6 +8,6 @@ public class Mama extends Parinti{
 
     @Override
     public void say() {
-        System.out.println("Mama is "+name+ " she has family "+getFAMILY());
+        System.out.println("Mama is "+name+ " her family name is "+getFAMILY());
     }
 }
