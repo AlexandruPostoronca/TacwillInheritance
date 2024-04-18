@@ -1,8 +1,5 @@
 import Copii.*;
-import House.HouseDamian;
-import House.HouseMama;
-import House.MayHouse;
-import House.MayHouseTata;
+import House.*;
 import Parinti.*;
 
 public class Main {
